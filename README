@@ -1,1 +1,2 @@
 Open dos.bat and type "Java Passwords" for the password manager or "Java PassGen" for the generator.
+I recommend encrypting it with something like truecrypt before putting in any sensitive information, as the information is stored in plaintext.
